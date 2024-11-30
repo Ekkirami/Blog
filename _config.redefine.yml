@@ -128,7 +128,7 @@ home_banner:
   title: C'est la vie
   # Home banner subtitle
   subtitle:
-    text: ['Death', 'is', 'art'] # subtitle text, array
+    text: ['Death', 'is', 'Art'] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
