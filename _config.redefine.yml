@@ -13,7 +13,7 @@ info:
   # Site title
   title: Ekkirami's Blog
   # Site subtitle
-  subtitle: ''
+  subtitle: '喵~'
   # Author name
   author: Ekkirami
   # Site URL
@@ -125,10 +125,10 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Ekkirami's Blog
+  title: C'est la vie
   # Home banner subtitle
   subtitle:
-    text: ['喵喵喵？'] # subtitle text, array
+    text: ['Death', 'is', 'art'] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
