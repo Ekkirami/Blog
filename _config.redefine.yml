@@ -169,7 +169,7 @@ home_banner:
     links:
       github: https://github.com/Ekkirami  # your GitHub URL
       zhihu:  # your ZhiHu URL
-      twitter:  # your twitter URL
+      twitter:  https://x.com/Lua_Miao
       email: Ekkirami@gmail.com
       # ...... # you can add more
     # Social links with QRcode drawers
